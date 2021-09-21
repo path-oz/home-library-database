@@ -3,7 +3,7 @@
 <ol>
     <li style="box-sizing: border-box;">Developed a program using Python to create a database to save, edit, and delete books that you have read. The program allows you to add a title, an author, input an ISBN, and provide a rating.</li>
     <li style="box-sizing: border-box;">Implemented Tkinter to create a GUI that allows the user to interact via clicking and typing.</li>
-    <li style="box-sizing: border-box;">Utilized SQLite3 to create the database and interact with one.</li>
+    <li style="box-sizing: border-box;">Utilized SQLite3 to create a database to store, edit, and retrieve data sets.</li>
 </ol>
 <h2>Instructions</h2>
 <ol>
