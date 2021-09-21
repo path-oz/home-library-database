@@ -1,4 +1,4 @@
-<h1 align="center">NYT Bestseller Book List</h1>
+<h1 align="center">Home Library Database</h1>
 <h2>Description</h2>
 <ol>
     <li style="box-sizing: border-box;">Developed a program using Python to create a database to save, edit, and delete books that you have read. The program allows you to add a title, an author, input an ISBN, and provide a rating.</li>
